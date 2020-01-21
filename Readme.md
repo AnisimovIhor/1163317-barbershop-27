@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Ihor Anisimov](https://up.htmlacademy.ru/htmlcss/27/user/1163317).
-
+* Преподаватель: [Viktoriya Kovalenko] (https://htmlacademy.ru/profile/id42638).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
